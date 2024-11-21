@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+dist/
+
+# Entornos
+.env
+
+# Configuración del editor
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
